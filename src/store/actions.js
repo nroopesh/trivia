@@ -1,0 +1,2 @@
+export const STORE_QUESTION = "STORE_QUESTION";
+export const STORE_ANSWER = "STORE_ANSWER";
